@@ -1,0 +1,25 @@
+<Title><![CDATA[Simple Pendulum]]></Title>
+<Author><![CDATA[PHY200 Student]]></Author>
+<Keywords><![CDATA[]]></Keywords>
+<Level><![CDATA[]]></Level>
+<Language><![CDATA[]]></Language>
+<Abstract><![CDATA[]]></Abstract>
+<AuxiliaryFile><![CDATA[./]]></AuxiliaryFile>
+<Classname><![CDATA[Final_Project.Final.Final_Project_with_Fourier_Continous_pkg.Final_Project_with_Fourier_Continous]]></Classname>
+<Execpath><![CDATA[C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/osp.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/ejs_lib.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/commons-math3-3.2.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/djep.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/Apache/apache_numerics.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/External/audioplayer.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/External/external.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/Hardware/hardware.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/Hardware/_utils/phidgetlibsarlab.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/Hardware/_utils/serial.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/InputOutput/input_output.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/ParallelJava/parallel_ejs.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/RoboticsLabs/jme-2.0-S1.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/model_elements/RoboticsLabs/roboticsLabs.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/QTJava.zip;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/slf4j-api.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/ARElement.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/commons-cli.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/commons-codec-1.10.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/commons-logging-1.1.1.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/gstreamer-java.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/jackson-annotations-2.1.1.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/jackson-core-2.1.1.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/jackson-databind-2.1.1.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/jna.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/Loader3DS.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/LoaderAC3D.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/LoaderVRML.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/log4j-1.2.15.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/logback-classic.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/logback-core.jar;C:/Users/QIAO YI/Desktop/EJS/EjsS_5.2/bin/extensions/_utils/xuggle-xuggler.jar;C:/Users/QIAO YI/Desktop/EJS Work Space/output/Final Project/Final/Final Project with Fourier Continous.jar;]]></Execpath>
+<AppletWidth><![CDATA[649]]></AppletWidth>
+<AppletHeight><![CDATA[473]]></AppletHeight>
+<MainFrame><![CDATA[pendulumFrame]]></MainFrame>
+<Collaborative><![CDATA[false]]></Collaborative>
+<ManifestUserLines><![CDATA[Permissions: sandbox;Codebase: *;Caller-Allowable-Codebase: *;]]></ManifestUserLines>
+<FileCreated><![CDATA[Final Project with Fourier Continous.jar]]></FileCreated>
+<FileCreated><![CDATA[Final Project with Fourier Continous.metadata]]></FileCreated>
+<FileCreated><![CDATA[Final Project with Fourier Continous.xml]]></FileCreated>
+<FileCreated><![CDATA[Final_Project_with_Fourier_Continous.xhtml]]></FileCreated>
+<FileCreated><![CDATA[Final_Project_with_Fourier_Continous_Contents.xhtml]]></FileCreated>
+<FileCreated><![CDATA[Final_Project_with_Fourier_Continous_Intro_1.html]]></FileCreated>
+<FileCreated><![CDATA[Final_Project_with_Fourier_Continous_Simulation.xhtml]]></FileCreated>
+<FileCreated><![CDATA[Final_Project_with_Fourier_Continous_pkg/Final_Project_with_Fourier_Continous.java]]></FileCreated>
+<FileCreated><![CDATA[Final_Project_with_Fourier_Continous_pkg/Final_Project_with_Fourier_ContinousApplet.java]]></FileCreated>
+<FileCreated><![CDATA[Final_Project_with_Fourier_Continous_pkg/Final_Project_with_Fourier_ContinousSimulation.java]]></FileCreated>
+<FileCreated><![CDATA[Final_Project_with_Fourier_Continous_pkg/Final_Project_with_Fourier_ContinousView.java]]></FileCreated>

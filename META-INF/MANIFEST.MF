@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Application-Name: Simple Pendulum
+Main-Frame: pendulumFrame
+Build-Date: 04 May 2016
+Built-By: Open Source Physics MiniJar Tool
+Is-Collaborative: false
+Class-Path: .
+Main-Class: Final_Project.Final.Final_Project_with_Fourier_Continous_p
+ kg.Final_Project_with_Fourier_Continous
+Permissions: sandbox
+Caller-Allowable-Codebase: *
+Codebase: *
+Applet-Height: 473
+Applet-Width: 649
+

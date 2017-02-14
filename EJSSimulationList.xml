@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package name="ejs_model_Final Project with Fourier Continous.jar">
+  <simulation name="Final Project with Fourier Continous">
+    <title>Simple Pendulum</title>
+    <class>Final_Project.Final.Final_Project_with_Fourier_Continous_pkg.Final_Project_with_Fourier_Continous</class>
+    <applet>Final_Project.Final.Final_Project_with_Fourier_Continous_pkg.Final_Project_with_Fourier_ContinousApplet</applet>
+  </simulation>
+</package>
